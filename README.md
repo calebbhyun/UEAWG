@@ -8,10 +8,10 @@ This script generates wordlists of potential usernames or email addresses based 
 - Process a file containing multiple names to generate wordlists.
 - Save results to a file or display them in the console.
 
-## Usage
-
-### Requirements
+## Prerequisites
 - Python 3.x
+
+## Usage
 
 ### Command Examples
 

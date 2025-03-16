@@ -1,5 +1,6 @@
 # Username & Email Address Wordlist Generator
 
+## Overview
 This script generates wordlists of potential usernames or email addresses based on provided names. Optionally, it can append a specified domain to generate email addresses.
 
 ## Features

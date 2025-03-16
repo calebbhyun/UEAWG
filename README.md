@@ -2,26 +2,6 @@
 
 This script generates wordlists of potential usernames or email addresses based on provided names. Optionally, it can append a specified domain to generate email addresses.
 
-## Formats
-- `firstlast@example.com`
-- `firstl@example.com`
-- `flast@example.com`
-- `lastfirst@example.com`
-- `lastf@example.com`
-- `lfirst@example.com`
-- `first.last@example.com`
-- `first.l@example.com`
-- `f.last@example.com`
-- `last.first@example.com`
-- `last.f@example.com`
-- `l.first@example.com`
-- `first_last@example.com`
-- `first_l@example.com`
-- `f_last@example.com`
-- `last_first@example.com`
-- `last_f@example.com`
-- `l_first@example.com`
-
 ## Features
 - Generate usernames or email addresses for a single name.
 - Process a file containing multiple names to generate wordlists.
@@ -65,3 +45,23 @@ Save the results to an output file:
 ```
 python script.py -f names.txt -d example.com -o output.txt
 ```
+
+## Example Output
+- `firstlast@example.com`
+- `firstl@example.com`
+- `flast@example.com`
+- `lastfirst@example.com`
+- `lastf@example.com`
+- `lfirst@example.com`
+- `first.last@example.com`
+- `first.l@example.com`
+- `f.last@example.com`
+- `last.first@example.com`
+- `last.f@example.com`
+- `l.first@example.com`
+- `first_last@example.com`
+- `first_l@example.com`
+- `f_last@example.com`
+- `last_first@example.com`
+- `last_f@example.com`
+- `l_first@example.com`
